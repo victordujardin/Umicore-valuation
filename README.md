@@ -1,7 +1,7 @@
 # Umicore Valuation Analysis
 
 ## Description
-This repository contains an in-depth valuation analysis of Umicore, a global materials technology and recycling group. The analysis has been compiled by Group 7 as part of the Finance course LINGE1315.
+This repository contains an in-depth valuation analysis of Umicore, a global materials technology and recycling group. The analysis has been compiled by Group 7 composed by Beghin Florette, Cassio Tommaso, Delcourt Sacha, Dujardin Victor, Masarweh Laetitia and Ribeiro Mathys as part of the Finance course LINGE1315.
 
 ## Contents
 - `umicore valuation.xlsx`: An Excel file with detailed financial models, including balance sheets, income statements, cash flow analysis, and forecasts.
